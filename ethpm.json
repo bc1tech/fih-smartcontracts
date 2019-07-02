@@ -1,0 +1,17 @@
+{
+  "package_name": "fidelityhouse-smartcontracts",
+  "version": "1.0.0",
+  "description": "Smart Contracts for the FIH token issued by FidelityHouse International SA",
+  "authors": [
+    "Vittorio Minacori (@vittominacori)"
+  ],
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "token",
+    "erc20"
+  ],
+  "license": "MIT"
+}

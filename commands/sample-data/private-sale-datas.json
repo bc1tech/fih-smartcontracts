@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0x541a9d1286d3C2344a1c0A5F6C8b33A02b660cE8",
+    "token": 100,
+    "bonus": 32
+  },
+  {
+    "address": "0x39EBB065d141172fc45badf155DAa5E2D9E6cB30",
+    "token": 200,
+    "bonus": 64
+  },
+  {
+    "address": "0x95821A7D2928B7647e0fA9D092D97272e5cB85c1",
+    "token": 300,
+    "bonus": 96
+  }
+]
